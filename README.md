@@ -42,3 +42,8 @@ CRUD operation on table persons (<ins>id_person</ins>, name)
 ```
   void cancel_btn_Click(object sender, EventArgs e)) => click at cancel button
 ```  
+
+# App running record
+
+https://user-images.githubusercontent.com/116503971/202734716-e4971e3a-d692-40ae-8a73-1fdaf66acf9f.mp4
+
